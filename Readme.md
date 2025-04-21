@@ -1,3 +1,6 @@
+This is the POC repo, please refer to:
+https://github.com/debezium/debezium-smt-go-pdk
+
 # Debezium SMT Go PDK
 
 This library can be used to write
